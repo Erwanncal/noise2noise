@@ -1,0 +1,3 @@
+dnnlib: Running validation.validate() on localhost...
+Average PSNR: 28.88
+dnnlib: Finished validation.validate() in 16m 58s.
